@@ -105,7 +105,7 @@ Desarrollador Frontend Junior
 📍 Buenos Aires, Argentina
 
 ---
-
+https://github.com/zeta-rpg/Single-Page-CV/blob/main/index.html
 https://github.com/zeta-rpg/Single-Page-CV.git
 
 
