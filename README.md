@@ -107,5 +107,5 @@ Desarrollador Frontend Junior
 ---
 https://github.com/zeta-rpg/Single-Page-CV/blob/main/index.html
 https://github.com/zeta-rpg/Single-Page-CV.git
-
+https://roadmap.sh/projects/single-page-cv?fl=0
 
